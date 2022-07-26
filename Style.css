@@ -1,0 +1,30 @@
+table{
+    margin: 35px 469px;
+    border: 5px solid rgb(192, 16, 16);
+    border-radius: 5px;
+}
+
+    td{
+    height: 50px;
+    width: 90px;
+    
+   
+   
+}
+td input{
+    font-size: 38px;
+    height: 62px;
+    width: 73px;
+    text-align: center;
+    margin: 2px 8px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+#result{
+    width: 276px;
+}
+h1{
+    text-align: center;
+    margin: 40px;
+    color: blue;
+}
